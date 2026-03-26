@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(if not exist \"C:\\\\Users\\\\chuanheng\\\\AppData\\\\Roaming\\\\claude\" mkdir \"C:\\\\Users\\\\chuanheng\\\\AppData\\\\Roaming\\\\claude\")",
+      "WebSearch"
+    ]
+  }
+}
